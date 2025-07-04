@@ -2,7 +2,7 @@
   "name": "position_sizing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://henry-tourraine.github.io",
+  "homepage": "https://henry-tourraine.github.io/PositionSizing",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
